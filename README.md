@@ -1,1 +1,5 @@
 # Lab-Activity-3-
+A CODE THAT DETERMINES WHETHER A GIVEN NUMBER IS ODD OR EVEN 
+
+VIDEO OF THE ODD OR EVEN 
+https://youtube.com/shorts/dbeQ79_daBE?si=hWZcfB3vjMXmMzFg
